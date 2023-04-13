@@ -1,1 +1,1 @@
-# parse-hub
+# plugin-tray
